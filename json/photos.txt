@@ -1,0 +1,55 @@
+[{           "date": "Sep 22, 2012",
+                "value": 17
+            },
+            {
+                "date": "Oct 01, 2012",
+                "value": 9
+            },
+            {
+                "date": "Oct 05, 2012",
+                "value": 5
+            },
+            {
+                "date": "Oct 09, 2012",
+                "value": 3
+            },
+            {
+                "date": "Oct 18, 2012",
+                "value": 6
+            },
+            {
+                "date": "Oct 30, 2012",
+                "value": 8
+            },
+            {
+                "date": "Nov 21, 2012",
+                "value": 4
+            },
+            {
+                "date": "Nov 29, 2012",
+                "value": 6
+            },
+            {
+                "date": "Dec 02, 2012",
+                "value": 2
+            },
+            {
+                "date": "Dec 05, 2012",
+                "value": 13
+            },
+            {
+                "date": "Dec 09, 2012",
+                "value": 1
+            },
+            {
+                "date": "Dec 15, 2012",
+                "value": 13
+            },
+            {
+                "date": "Dec 22, 2012",
+                "value": 2
+            },
+            {
+                "date": "Dec 31, 2012",
+                "value": 35
+            }]
